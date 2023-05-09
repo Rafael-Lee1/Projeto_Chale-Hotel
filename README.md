@@ -10,8 +10,6 @@
 
 # Descrição
 
- Descrição:
-
 O site de Hotel criado é uma plataforma online que permite aos usuários pesquisar, reservar e gerenciar hospedagens em hotéis. Com uma interface amigável e intuitiva, o site oferece aos usuários acesso a informações detalhadas sobre hotéis em diferentes locais, bem como a possibilidade de comparar preços e serviços oferecidos.
 
 O site oferece recursos avançados que permitem aos usuários encontrar a melhor opção de hospedagem para suas necessidades. Os usuários podem pesquisar hotéis por localização, tipo de quarto, número de hóspedes e datas de estadia. Além disso, o site oferece a opção de visualizar imagens dos quartos e comodidades, bem como ler avaliações e classificações de outros usuários.
